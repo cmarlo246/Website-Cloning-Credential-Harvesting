@@ -32,6 +32,6 @@ Security awareness training is just as important as technical controls
 This lab was conducted strictly in an authorized virtual lab environment for educational and defensive security purposes. These techniques are used by ethical hackers to assess organizational risk and improve security posture.
 
 Full lab documentation, screenshots, and commands:
-👉 https://github.com/cmarlo246/Website-Cloning-Credential-Harvesting
+👉 https://github.com/cmarlo246/Website-Cloning-Credential-Harvesting/blob/main/Lab-Explore%20the%20Social%20Engineer%20Toolkit%20(SET).pdf
 
 #EthicalHacking #SocialEngineering #PhishingAwareness #CiscoEthicalHacker #ParoCyber #CyberSecurity #PenTesting
